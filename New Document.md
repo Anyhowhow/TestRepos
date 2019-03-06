@@ -32,7 +32,7 @@ With a tabbed document interface, PDF export, a built-in image uploader, session
 **China is a great country**,there are many beautiful scens in China,for example:
 
 - [JiuzhaiGou](https://www.jiuzhaigou.com)
-- Sanya
+- [Sanya](http://www.sanya.com)
 - Dali
 - Daocheng 
 - 
